@@ -10,7 +10,7 @@ from pathlib import Path
 
 from lxml import etree
 
-DIR = '/home/green-machine/data_science/data/raw'
+DIR = '../data/raw'
 FILE_NAME = 'conforti-figure1.stm'
 
 with open(Path(DIR).joinpath(FILE_NAME)) as f:

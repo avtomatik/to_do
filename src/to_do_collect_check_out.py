@@ -11,10 +11,10 @@ Created on Sat Oct 22 12:30:16 2022
 # =============================================================================
 # =============================================================================
 # SERIES_IDS = {
-#     # 'CDT2S1': ('dataset_usa_cobb-douglas.zip', 1, 'nominal, millions'),
-#     # 'P0107': ('dataset_uscb.zip', 1000, 'nominal, billions'),
-#     'CDT2S3': ('dataset_usa_cobb-douglas.zip', 1, '1880=100, millions'),
-#     'P0119': ('dataset_uscb.zip', 1000, '1958=100, billions'),
+#     # 'CDT2S1': ('cobbdouglas.csv', 1, 'nominal, millions'),
+#     # 'P0107': ('uscb.csv', 1000, 'nominal, billions'),
+#     'CDT2S3': ('cobbdouglas.csv', 1, '1880=100, millions'),
+#     'P0119': ('uscb.csv', 1000, '1958=100, billions'),
 # }
 # =============================================================================
 
